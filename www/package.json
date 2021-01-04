@@ -1,0 +1,15 @@
+{
+  "name": "glizzy-gobbler-game",
+  "version": "1.0.3",
+  "description": "A dumb game we made cuz we were bored",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thecoder08",
+  "license": "MIT",
+  "dependencies": {
+    "@thecoder08/docuget": "^1.0.3",
+    "@thecoder08/http": "^1.0.2"
+  }
+}
